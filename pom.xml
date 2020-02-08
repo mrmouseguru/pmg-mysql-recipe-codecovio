@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>guru.pmouse</groupId>
-    <artifactId>mysql-recipe-codecov</artifactId>
+    <artifactId>mysql-recipe-codecovio</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>mysql-recipe-codecov</name>
     <description>PMG MySQL Recipe for CodeCov Testing</description>
