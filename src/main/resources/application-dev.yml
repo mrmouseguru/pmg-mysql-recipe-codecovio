@@ -3,6 +3,7 @@ spring:
     url: jdbc:mysql://localhost:3306/pmg_dev
     username: pmg_dev_user
     password: pmouseguru
+    platform: mysql
   jpa:
     hibernate:
       ddl-auto: validate
